@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,45:1d4ed8,100:06b6d4&text=Shubham%20Yadav&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20%7C%20.NET%20Backend%20Developer&descAlignY=60&descSize=17" width="100%" alt="Shubham Yadav — Software Engineer and .NET Backend Developer" />
 
 <p>
-  <a href="https://shubham-yadav-portfolio-two.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://imshubhamy.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/ImShubhamY"><img src="https://img.shields.io/badge/GitHub-ImShubhamY-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://x.com/ImShubhamYX"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
@@ -53,7 +53,7 @@
 
 | Project | What it is |
 |---|---|
-| [**Portfolio Website**](https://shubham-yadav-portfolio-two.vercel.app) | Personal portfolio showcasing my engineering background and work. |
+| [**Portfolio Website**](https://imshubhamy.vercel.app/) | Personal portfolio showcasing my engineering background and work. |
 | [**NeetCode Submissions**](https://github.com/ImShubhamY/neetcode-submissions) | A collection of coding interview practice solutions. |
 | [**YouTube Backend**](https://github.com/ImShubhamY/YouTube-Backend-) | Backend project exploring API and server-side application development. |
 | [**Weather App**](https://github.com/ImShubhamY/Weather-App) | Weather application project. |
@@ -76,7 +76,7 @@
 
 I'm always happy to connect with engineers and discuss backend development, .NET, databases, and system design.
 
-- **Portfolio:** [shubham-yadav-portfolio-two.vercel.app](https://shubham-yadav-portfolio-two.vercel.app)
+- **Portfolio:** [imshubhamy.vercel.app](https://imshubhamy.vercel.app/)
 - **GitHub:** [@ImShubhamY](https://github.com/ImShubhamY)
 - **X (Twitter):** [@ImShubhamYX](https://x.com/ImShubhamYX)
 
