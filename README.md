@@ -62,13 +62,14 @@
 ## 📊 GitHub Snapshot
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ImShubhamY&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats for ImShubhamY" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImShubhamY&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+
+<a href="https://github.com/ImShubhamY"><img src="https://img.shields.io/github/followers/ImShubhamY?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" /></a>
+<a href="https://github.com/ImShubhamY?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FImShubhamY&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github" alt="Public repositories" /></a>
+<a href="https://github.com/ImShubhamY/ImShubhamY"><img src="https://img.shields.io/github/stars/ImShubhamY/ImShubhamY?style=for-the-badge&label=Profile%20Repo%20Stars" alt="Profile repository stars" /></a>
+
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ImShubhamY&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</div>
+Explore my [repositories and programming languages](https://github.com/ImShubhamY?tab=repositories), or view my [GitHub contribution activity](https://github.com/ImShubhamY?tab=overview#js-contribution-activity).
 
 ---
 
