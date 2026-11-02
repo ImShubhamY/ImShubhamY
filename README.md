@@ -7,6 +7,7 @@
 <p>
   <a href="https://shubham-yadav-portfolio-two.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/ImShubhamY"><img src="https://img.shields.io/badge/GitHub-ImShubhamY-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://x.com/ImShubhamYX"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
 **I build backend services, APIs, and data-intensive systems with a focus on performance and reliability.**
@@ -77,6 +78,7 @@ I'm always happy to connect with engineers and discuss backend development, .NET
 
 - **Portfolio:** [shubham-yadav-portfolio-two.vercel.app](https://shubham-yadav-portfolio-two.vercel.app)
 - **GitHub:** [@ImShubhamY](https://github.com/ImShubhamY)
+- **X (Twitter):** [@ImShubhamYX](https://x.com/ImShubhamYX)
 
 <div align="center">
   <sub>Building reliable systems, one improvement at a time.</sub>
